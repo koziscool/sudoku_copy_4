@@ -1,0 +1,14 @@
+
+.outer-block{
+  background-color:black;
+}
+
+.inner-block{
+  background-color:grey;
+}
+
+.cell-input{
+  text-align: center;
+}
+
+
